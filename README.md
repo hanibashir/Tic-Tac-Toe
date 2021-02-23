@@ -3,7 +3,7 @@ Kotlin console application from [JetBrains Academy](https://hyperskill.org/proje
 # Difficulty: 
 - Easy.
 
-# Learning Outcomes:
+# Topics Covered By This Project:
 - [x] Debugging and error handling.
 - [x] Command line input and output in Kotlin.
 - [x] Multi-dimensional arrays.
